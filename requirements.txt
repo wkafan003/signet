@@ -1,0 +1,11 @@
+opencv-python
+ray[all]
+tensorflow
+keras
+gdown
+natsort
+numpy
+sklearn
+Pillow
+pyarrow
+pandas
