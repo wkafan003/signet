@@ -5,8 +5,8 @@
 В качестве функции потери была выбрана контрастная функция потери, а в качестве метода оптимизации - adam.
 Гиперпараметры подобраны с помощью ray.
 
-train_tpu.ipynb - содержит код для обучения на высокопроизводительных тензорных процессорах tpu. Collab - https://colab.research.google.com/drive/106ZecyN3zl_Traw49ZxgP41yJRwap3aV?usp=sharing
-
 signet-keras.ipynb- содержит код для обучения нейросети signet с подбором гиперпараметров. Collab - https://colab.research.google.com/drive/1AngK75f0RrEtJoo_D-E64E4euOtvrBd3?usp=sharing.
+
+train_tpu.ipynb - содержит код для обучения на высокопроизводительных тензорных процессорах tpu. Collab - https://colab.research.google.com/drive/106ZecyN3zl_Traw49ZxgP41yJRwap3aV?usp=sharing
 
 signet_eval.py - содержит код для запуска нейросети на данных вручную. Скачивает предобученную модель с лучшей точностью (полученную на прошлых шагах), и предсказывает возожность подделки.
